@@ -137,7 +137,7 @@ int main() {
     printf("Digite a opção desejada: ");
     scanf("%d", &op2);
 
-    if (op1 == op2){
+    if (op2 == op1){
         printf("Opção INVÁLIDA!\n\n");
     } else{ 
         //primeiro resultado
